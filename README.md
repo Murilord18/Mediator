@@ -1,2 +1,4 @@
 # Mediator
 Repositório para a resolução das atividades da Disciplina Arquitetura e Projeto de Software, Padrão Mediator
+
+## Diagrama de Classe 
